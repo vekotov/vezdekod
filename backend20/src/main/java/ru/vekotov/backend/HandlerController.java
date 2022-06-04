@@ -32,7 +32,7 @@ public class HandlerController {
         }
 
         ds.addVote(addVoteParam.getArtist());
-        return ResponseEntity.ok().headers(getXRateHeaders(result)).body("");
+        return ResponseEntity.status(HttpStatus.CREATED).headers(getXRateHeaders(result)).body("");
     }
 
     @GetMapping("/votes")
