@@ -15,7 +15,7 @@
 
 ## Ссылки
 
-* [yandex disk с jar файлами](https://disk.yandex.ru/d/u8iBdEAxGyrXnA)
+* [Github-релиз с jar файлами](https://github.com/vekotov/vezdekod/releases/tag/vezdekod)
 * [backend10 readme](backend10/README.md)
 * [backend20 readme](backend20/README.md)
 * [backend30 readme](backend30/README.md)
