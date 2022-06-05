@@ -1,0 +1,12 @@
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/Calculator.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/DTO/CalculatorResponse.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/Main.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/HttpWorker.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/DTO/CalculatorArguments.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/DTO/HttpWorkerResponse.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/DTO/ThreadResponse.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/ResultPrinter.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/ConsoleArgsReader.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/DTO/ThreadArguments.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/DTO/HttpWorkerArgument.java
+/home/vekotov/IdeaProjects/Vezdekod10/backend40/performance-analyzer/src/main/java/ThreadWorker.java

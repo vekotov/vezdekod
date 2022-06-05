@@ -1,0 +1,12 @@
+Calculator.class
+Main.class
+DTO/ThreadArguments.class
+ThreadWorker.class
+DTO/CalculatorArguments.class
+DTO/HttpWorkerArgument.class
+DTO/CalculatorResponse.class
+ConsoleArgsReader.class
+HttpWorker.class
+DTO/HttpWorkerResponse.class
+ResultPrinter.class
+DTO/ThreadResponse.class
