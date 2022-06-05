@@ -15,7 +15,7 @@
 
 ## Ссылки
 
-* [Github-релиз с jar файлами](https://github.com/vekotov/vezdekod/releases/tag/vezdekod)
+* [Github-релиз с jar файлами](https://github.com/vekotov/vezdekod/releases/tag/vezdekod_updated)
 * [backend10 readme](backend10/README.md)
 * [backend20 readme](backend20/README.md)
 * [backend30 readme](backend30/README.md)
